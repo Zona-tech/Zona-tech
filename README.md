@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Zona-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...developing
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on ...software businesses
+- 📫 How to reach me ...whatsapp +923202233610, e-mail deezee355355@gmail.com,  
 
 <!---
-Zona-tech/Zona-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+loving this world with technology
 --->
